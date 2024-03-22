@@ -1,0 +1,40 @@
+h1 {
+
+    margin-top: 50px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 20px;
+
+    padding-bottom: 25px;
+
+    color: purple;
+
+}
+
+h2 {
+
+    color: aqua;
+
+    text-align: left;
+
+}
+
+li {
+
+    color: blueviolet;
+
+    font-size: 30px;
+
+    text-align: center;
+
+}
+
+p {
+
+    color: green;
+
+    font-size: 20px;
+
+    text-align: right;
+
+}
